@@ -4,7 +4,7 @@ Creating GET/POST/PUT/DELETE Endpoints with Spring Boot web services
 The program uses in-memory data instead of database for data.
 
 1)	Open Spring Tool  Suite 4
-2)	Create Spring starter project called Delete
+2)	Create Spring starter project called **Delete**
 3)	Add Spring Web and Thymelleaf from https://start.spring.io
 4)	Click finish
 5)	Create Product POJO class
